@@ -8,5 +8,5 @@ Residential Static Proxies are excellent if you need to harvest data and gather 
 
 ## Enjoy the high speed and superior performance
 
-Static Residential Proxies originate from datacenter proxies, therefore they are just as fast as their counterparts. Residential Static Proxies are excellent if you need to harvest data and gather intelligence quickly. With our ** 100K+ static IP proxy pool **, you can react fast to protect your business brand and a hard-fought market share.
+Static Residential Proxies originate from datacenter proxies, therefore they are just as fast as their counterparts. Residential Static Proxies are excellent if you need to harvest data and gather intelligence quickly. With our **100K+ static IP proxy pool**, you can react fast to protect your business brand and a hard-fought market share.
 
