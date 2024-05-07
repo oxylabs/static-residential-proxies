@@ -13,3 +13,16 @@ Static Residential Proxies originate from datacenter proxies, therefore they are
 ## Gather information as an organic user
 
 Oxylabs' Static Residential Proxies are officially assigned by an Internet Service Provider (ISP). The combination of the datacenter and residential proxies gives you the power of both worlds and makes a perfect proxy. ISP proxies allow you to browse the internet **from the eyes of a genuine consumer** and gather public data even from the most challenging targets.
+
+## Reach up to 99.9% uptime with Static IP Proxies
+
+Oxylabs’ Static Residential Proxies offer an average uptime of 99.9%. They are one of the most stable and reliable proxies on the market, so rest assured you will complete your scraping tasks swiftly. Also, our Static Residential Proxies support HTTP, HTTPS & SOCKS5 protocols.
+
+## Why businesses choose Oxylabs Static Residential Proxies
+
+**Simple pricing terms** - With our Static Residential Proxies, you get unlimited bandwidth and will be charged only per IP.
+**100K+ Static Residential IPs** - We currently have over 100K static residential IPs, and we continuously expand our proxy pool to fit every customer's needs.
+**Reliable resources** - We make sure that Oxylabs’ Static Residential Proxies are fast and reliable, so no issues occur during scraping jobs.
+**Unlimited number of targets** - With Oxylabs’ static IP proxies, there are no limits or restrictions to any of your targets, making any scraping job a lot smoother.
+**99.9% uptime** - With high uptime, Oxylabs' Static Residential Proxies are one of the most stable and reliable proxies on the market.
+**24/7 live support** - No matter the time of the day, be sure to get answers when you need them. Our support team works around the clock!
