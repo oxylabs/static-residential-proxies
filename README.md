@@ -27,4 +27,4 @@ Oxylabs’ Static Residential Proxies offer an average uptime of 99.9%. They are
 **99.9% uptime** - With high uptime, Oxylabs' Static Residential Proxies are one of the most stable and reliable proxies on the market.
 **24/7 live support** - No matter the time of the day, be sure to get answers when you need them. Our support team works around the clock!
 
-Interested in more proxy related repositories? Check out [Free Proxy List](https://github.com/oxylabs/free-proxies)
+Interested in more proxy related repositories? Check out our NEW [Free Proxy List](https://github.com/oxylabs/free-proxies)
